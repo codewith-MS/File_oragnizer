@@ -48,6 +48,13 @@ Save the hash_index.json when DRY_RUN is False (i.e., on real moves).
 Minor logic: not_moved_files now subtracts duplicates_skipped too.
 
   > Why: accurate accounting.
+> 
+
+## To make it look neat in output format we use 
+> Halo and spinner for animation 
+
+<img width="595" height="313" alt="image" src="https://github.com/user-attachments/assets/bc66c254-27d2-4da3-b36c-e9f80c071d04" />
+
 
 
 
