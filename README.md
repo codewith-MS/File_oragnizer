@@ -51,9 +51,12 @@ Minor logic: not_moved_files now subtracts duplicates_skipped too.
 > 
 
 ## To make it look neat in output format we use 
-> Halo and spinner for animation 
+> Halo and spinner for animation
 
-<img width="595" height="313" alt="image" src="https://github.com/user-attachments/assets/bc66c254-27d2-4da3-b36c-e9f80c071d04" />
+------------------------------------------------------
+#### Output 
+
+<img width="600" height="285" alt="image" src="https://github.com/user-attachments/assets/3e1fb3f4-a3ca-40b3-8612-a8aeb3401174" />
 
 
 
